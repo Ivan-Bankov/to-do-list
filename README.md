@@ -1,6 +1,6 @@
 # To-Do List
 ## What it does:
-A basic to-do list made by following a tutorial by Web Dev Simplfied. The purpose of the app is for the user to make a simple to-do list with the ability to check and delete items. The items of the list are stored in the local storage so whenever the user closes the app they can open it again later and still have the same list.
+A fully responsive basic to-do list made by following a tutorial by Web Dev Simplfied. The purpose of the app is for the user to make a simple to-do list with the ability to check and delete items. The items of the list are stored in the local storage so whenever the user closes the app they can open it again later and still have the same list.
 ## Technologies used:
 The app was built with Reach + Vite in Visual Studio Code.
 ## Why said technologies:

@@ -5,9 +5,9 @@ A basic to-do list made by following a tutorial by Web Dev Simplfied. The purpos
 The app was built with Reach + Vite in Visual Studio Code.
 ## Why said technologies:
 I wanted to get a basic grasp of how React works along with Vite.
-## How to install:
+## How to install it:
 After you've dowloaded/cloned the project you have to run *npm i* in the terminal to install all of the depenedancies and then run the following command: *npm run dev*. After that you open the localhost link.
-## How to use:
+## How to use it:
 To use the project you simply have to type something in the *New Item* box and either press *Enter* or click on the *Add* button. After that you can check items off the list by clicking on the checkbox to the left or delete an item by clicking on the *Delete* button to the right.
 ## Credits:
 Web Dev Simplfied: https://youtu.be/Rh3tobg7hEo
